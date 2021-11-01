@@ -1,6 +1,7 @@
 # testing123
 hi
 print("Title of program: Encouragement bot")
+print("hello")
 print()
 while True:
   description = input("Could you describe how you feel in a sentence?")
